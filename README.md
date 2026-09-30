@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
+| [0709-to-lower-case](https://github.com/AnkitYuva/LeetCode/tree/master/0709-to-lower-case) |
 | [1507-reformat-date](https://github.com/AnkitYuva/LeetCode/tree/master/1507-reformat-date) |
 ## Sorting
 |  |
