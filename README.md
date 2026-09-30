@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
+| [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
+| [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/AnkitYuva/LeetCode/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/AnkitYuva/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AnkitYuva/LeetCode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
