@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AnkitYuva/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/AnkitYuva/LeetCode/tree/master/0709-to-lower-case) |
 | [1507-reformat-date](https://github.com/AnkitYuva/LeetCode/tree/master/1507-reformat-date) |
+| [1844-replace-all-digits-with-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 ## Sorting
 |  |
 | ------- |
