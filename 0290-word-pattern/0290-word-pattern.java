@@ -3,21 +3,21 @@ class Solution {
         String[] words = s.split(" ");
         if(pattern.length() != words.length) return false;
         Map<Character,String> map = new HashMap<>();
-        Set<String> set = new HashSet<>();
+
         for(int i = 0; i < pattern.length(); i++){
             char ch = pattern.charAt(i);
             String word = words[i];
             if(map.containsKey(ch)){
-                if(!map.get(ch).equals(word)){
+                if(map.get(ch).equals(word)){
+                    continue;
+                }else{
                     return false;
                 }
-            }else{
-                if(set.contains(word)){
-                    return false;
-                }
-                map.put(ch,word);
-                set.add(word);
             }
+            if(map.containsValue(word)){
+                return false;
+            }
+            map.put(ch,word);
         }
         return true;
     }
