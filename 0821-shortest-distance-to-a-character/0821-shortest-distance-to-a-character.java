@@ -14,7 +14,7 @@ class Solution {
             }else{
                 for(int idx : list){
                     if(Math.max(idx,i) - Math.min(idx,i) >= 0 && Math.max(idx,i) - Math.min(idx,i) < min){
-                        min = Math.max(idx,i) - Math.min(idx,i)
+                        min = Math.max(idx,i) - Math.min(idx,i);
                     }
                 }
                 result[i] = min;
