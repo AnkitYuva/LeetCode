@@ -1,3 +1,4 @@
+// Solution 1 - Dynamic Programming -- Tabulation
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 1) return nums[0];
