@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
