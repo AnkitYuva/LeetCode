@@ -1,4 +1,4 @@
-// Solution 1 (Both Time & Space Optimiszed)
+// Solution 1 (Both Time & Space Optimiszed) -- Tabulation
 class Solution {
     public int climbStairs(int n) {
         int a=1,b=2,c=0;
