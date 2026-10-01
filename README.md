@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnkitYuva/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYuva/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/AnkitYuva/LeetCode/tree/master/0509-fibonacci-number) |
 ## String Matching
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnkitYuva/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnkitYuva/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
