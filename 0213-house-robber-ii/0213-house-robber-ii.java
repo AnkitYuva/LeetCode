@@ -9,9 +9,6 @@ class Solution {
         return Math.max(helper(nums,0,nums.length-2),helper(nums,1,nums.length-1));
     }
     public int helper(int[] nums,int start,int end) {
-        if(nums.length == 1){
-            return nums[0];
-        }
         int one = nums[start];
         int two = Math.max(nums[start],nums[start+1]);
         int result = two;
