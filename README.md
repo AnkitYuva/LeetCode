@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/AnkitYuva/LeetCode/tree/master/0198-house-robber) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AnkitYuva/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AnkitYuva/LeetCode/tree/master/0198-house-robber) |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
