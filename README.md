@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/AnkitYuva/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
