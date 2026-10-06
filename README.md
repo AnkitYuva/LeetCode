@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Tree
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
