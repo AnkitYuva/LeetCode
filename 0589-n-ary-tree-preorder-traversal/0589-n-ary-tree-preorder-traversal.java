@@ -18,15 +18,18 @@ class Node {
 */
 
 class Solution {
-    List<Integer> list = new ArrayList<>();
     public List<Integer> preorder(Node root) {
+        List<Integer> list = new ArrayList<>();
+        dfs(root,list);
+        return list;
+    }
+    public void dfs(Node root,List<Integer> list){
         if(root == null){
-            return list;
+            return;
         }
         list.add(root.val);
         for(Node node : root.children){
-            preorder(node);
+            dfs(node,list);
         }
-        return list;
     }
 }
