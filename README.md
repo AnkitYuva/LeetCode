@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/AnkitYuva/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitYuva/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1446-consecutive-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1446-consecutive-characters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitYuva/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -155,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitYuva/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitYuva/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
