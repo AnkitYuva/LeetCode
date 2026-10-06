@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitYuva/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -211,12 +212,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/AnkitYuva/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/AnkitYuva/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
