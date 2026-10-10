@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYuva/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/AnkitYuva/LeetCode/tree/master/0509-fibonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitYuva/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitYuva/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
