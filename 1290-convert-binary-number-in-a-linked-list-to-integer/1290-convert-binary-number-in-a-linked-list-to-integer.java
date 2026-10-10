@@ -20,7 +20,7 @@ class Solution {
 
         int num = 0;
         while(head != null){
-            num = (num << 1) | head.val;
+            num = (num * 2) + head.val;//(num << 1) | head.val;
             head = head.next;
         }
         return num;
