@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnkitYuva/LeetCode/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/AnkitYuva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/AnkitYuva/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1002-find-common-characters) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AnkitYuva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AnkitYuva/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
