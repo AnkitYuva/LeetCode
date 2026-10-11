@@ -1,6 +1,7 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> res = new ArrayList<>();
+        
         if(digits.isEmpty()){
             return res;
         }
@@ -24,7 +25,7 @@ class Solution {
 
             for(int j = 0; j < res.size(); j++){
                 for(int k = 0; k < letter.length(); k++){
-                    
+
                     temp.add(res.get(j) + letter.charAt(k));
                 }
             }
