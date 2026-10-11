@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/AnkitYuva/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/AnkitYuva/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AnkitYuva/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0213-house-robber-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnkitYuva/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/AnkitYuva/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnkitYuva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
