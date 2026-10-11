@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/AnkitYuva/LeetCode/tree/master/1720-decode-xored-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AnkitYuva/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnkitYuva/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnkitYuva/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
