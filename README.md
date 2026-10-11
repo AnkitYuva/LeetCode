@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnkitYuva/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/AnkitYuva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AnkitYuva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
