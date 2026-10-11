@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/AnkitYuva/LeetCode/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/AnkitYuva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1002-find-common-characters) |
@@ -321,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AnkitYuva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
