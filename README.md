@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitYuva/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/AnkitYuva/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AnkitYuva/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AnkitYuva/LeetCode/tree/master/0016-3sum-closest) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnkitYuva/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AnkitYuva/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnkitYuva/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
