@@ -1,6 +1,6 @@
+// Greedy Approach
 class Solution {
     public int jump(int[] nums) {
-        // Greedy Approach
         int jump = 0;
         int l = 0;
         int r = 0;
