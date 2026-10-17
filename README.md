@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/AnkitYuva/LeetCode/tree/master/1720-decode-xored-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitYuva/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AnkitYuva/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnkitYuva/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitYuva/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
 | ------- |
