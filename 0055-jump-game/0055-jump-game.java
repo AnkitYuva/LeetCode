@@ -6,10 +6,7 @@ class Solution {
                 return false;
             }
             max = Math.max(max,nums[i]+i);
-            if(max >= nums.length-1){
-                return true;
-            }
         }
-        return false;
+        return true;
     }
 }
