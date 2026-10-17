@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnkitYuva/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AnkitYuva/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnkitYuva/LeetCode/tree/master/0118-pascals-triangle) |
