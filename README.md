@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/AnkitYuva/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/AnkitYuva/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitYuva/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/AnkitYuva/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AnkitYuva/LeetCode/tree/master/0198-house-robber) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AnkitYuva/LeetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AnkitYuva/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AnkitYuva/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitYuva/LeetCode/tree/master/0678-valid-parenthesis-string) |
