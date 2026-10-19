@@ -23,6 +23,9 @@ class Solution {
                 count++;
             }
         }
+        if(count == 0){
+            return new ArrayList<>();
+        }
         List<Integer> arr = new ArrayList<>(count);
         for(int i = 0; i < count; i++){
             arr.add(less + i);
