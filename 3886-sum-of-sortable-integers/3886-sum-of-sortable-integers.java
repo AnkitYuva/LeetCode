@@ -11,7 +11,7 @@ class Solution {
     }
     public boolean check(int[] nums,int k){
         int prev = 0;
-        for(int start = 0; start < nums.length; start+=k){
+        for(int start = 0; start < nums.length; start += k){
             int end = start + k;
             int first = start;
             for(int i = start + 1; i < end; i++){
