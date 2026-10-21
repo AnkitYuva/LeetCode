@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
