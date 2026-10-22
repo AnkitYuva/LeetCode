@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
