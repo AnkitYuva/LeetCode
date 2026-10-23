@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitYuva/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitYuva/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AnkitYuva/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitYuva/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitYuva/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AnkitYuva/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AnkitYuva/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Queue
 |  |
 | ------- |
