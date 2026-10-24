@@ -4,8 +4,7 @@ class Solution {
         long len = 0;
         for(int num : nums){
             if(num >= minK && num <= maxK){
-                len++;
-                ans += len;
+                ans += ++len;
             }else{
                 len = 0;
             }
