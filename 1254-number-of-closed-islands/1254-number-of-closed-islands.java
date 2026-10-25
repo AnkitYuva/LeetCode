@@ -6,7 +6,9 @@ class Solution {
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(i == 0 || j == 0 || i == n - 1 || j == m - 1){
-                    dfs(i,j,grid,n,m);
+                    if(grid[i][j] == 0){
+                        dfs(i,j,grid,n,m);
+                    }
                 }
             }
         }
