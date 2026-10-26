@@ -16,7 +16,7 @@ class Solution {
     }
     public long dfs(int[][] grid,int i, int j, int n, int m){
         if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == 0){
-            return 0L;
+            return 0;
         }
         long sum = grid[i][j];
         grid[i][j] = 0;
