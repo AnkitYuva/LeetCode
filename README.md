@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitYuva/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AnkitYuva/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/AnkitYuva/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitYuva/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
