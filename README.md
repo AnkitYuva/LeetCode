@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AnkitYuva/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnkitYuva/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3912-valid-elements-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/3912-valid-elements-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2409-count-days-spent-together](https://github.com/AnkitYuva/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/AnkitYuva/LeetCode/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AnkitYuva/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnkitYuva/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnkitYuva/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnkitYuva/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -461,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -475,11 +481,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitYuva/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitYuva/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitYuva/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitYuva/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quicksort
 |  |
 | ------- |
