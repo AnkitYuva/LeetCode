@@ -1,4 +1,4 @@
-// Did Chatgpt Because my streak was about to break;
+// Did Cheating Because my streak was about to break;
 class Solution {
     int n, timer;
     int[] tin, tout, depth;
