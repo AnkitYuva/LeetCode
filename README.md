@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnkitYuva/LeetCode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/AnkitYuva/LeetCode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/AnkitYuva/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/AnkitYuva/LeetCode/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/AnkitYuva/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/AnkitYuva/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/AnkitYuva/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnkitYuva/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/AnkitYuva/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/AnkitYuva/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitYuva/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnkitYuva/LeetCode/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AnkitYuva/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AnkitYuva/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnkitYuva/LeetCode/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AnkitYuva/LeetCode/tree/master/2319-check-if-matrix-is-x-matrix) |
