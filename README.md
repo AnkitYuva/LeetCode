@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AnkitYuva/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AnkitYuva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AnkitYuva/LeetCode/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/AnkitYuva/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/AnkitYuva/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitYuva/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/AnkitYuva/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/AnkitYuva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitYuva/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AnkitYuva/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AnkitYuva/LeetCode/tree/master/0383-ransom-note) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/AnkitYuva/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitYuva/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AnkitYuva/LeetCode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/AnkitYuva/LeetCode/tree/master/0435-non-overlapping-intervals) |
