@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AnkitYuva/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AnkitYuva/LeetCode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/AnkitYuva/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/AnkitYuva/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnkitYuva/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/AnkitYuva/LeetCode/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AnkitYuva/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AnkitYuva/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/AnkitYuva/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Monotonic Stack
 |  |
