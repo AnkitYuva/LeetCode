@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1254-number-of-closed-islands](https://github.com/AnkitYuva/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitYuva/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnkitYuva/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnkitYuva/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/AnkitYuva/LeetCode/tree/master/0912-sort-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitYuva/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitYuva/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AnkitYuva/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AnkitYuva/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/AnkitYuva/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitYuva/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/AnkitYuva/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnkitYuva/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnkitYuva/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/AnkitYuva/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitYuva/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitYuva/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitYuva/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
