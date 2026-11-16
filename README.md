@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AnkitYuva/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnkitYuva/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/AnkitYuva/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/AnkitYuva/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -585,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnkitYuva/LeetCode/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnkitYuva/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
