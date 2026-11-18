@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AnkitYuva/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/AnkitYuva/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/AnkitYuva/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AnkitYuva/LeetCode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitYuva/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -279,15 +280,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1668-maximum-repeating-substring](https://github.com/AnkitYuva/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -592,4 +596,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AnkitYuva/LeetCode/tree/master/0155-min-stack) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
