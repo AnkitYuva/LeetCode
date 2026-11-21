@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/AnkitYuva/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/AnkitYuva/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AnkitYuva/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitYuva/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnkitYuva/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
