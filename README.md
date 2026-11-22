@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/AnkitYuva/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1844-replace-all-digits-with-characters](https://github.com/AnkitYuva/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/AnkitYuva/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnkitYuva/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/AnkitYuva/LeetCode/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2390-removing-stars-from-a-string) |
