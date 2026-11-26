@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitYuva/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AnkitYuva/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/AnkitYuva/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/AnkitYuva/LeetCode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnkitYuva/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/AnkitYuva/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AnkitYuva/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/AnkitYuva/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/AnkitYuva/LeetCode/tree/master/3360-stone-removal-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
